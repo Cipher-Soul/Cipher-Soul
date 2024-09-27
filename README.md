@@ -1,6 +1,6 @@
 ![enter image description here](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)
 # 💫 About Me:
-Hi, I'm Ankit 👋<br><br>    💻 Passionate developer focused on creating innovative, functional solutions.<br>    🌱 Always learning new technologies and pushing the boundaries of what's possible.<br>    🎯 Currently working on Django full stack project.<br>    🤝 Open to collaboration and contributing to the developer community.<br>    📫 Reach me at: https://www.instagram.com/soul_redesign/ 
+Hi, I'm <b>Ankit Kashyap</b>👋<br><br>    💻 Passionate developer focused on creating innovative, functional solutions.<br>    🌱 Always learning new technologies and pushing the boundaries of what's possible.<br>    🎯 Currently working on Django full stack project.<br>    🤝 Open to collaboration and contributing to the developer community.<br>    📫 Reach me at: https://www.instagram.com/soul_redesign/ 
 
 
 ## 🌐 Socials:
