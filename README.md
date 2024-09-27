@@ -17,7 +17,7 @@ Hi, I'm Ankit 👋<br><br>    💻 Passionate developer focused on creating inno
 ![](https://github-profile-trophy.vercel.app/?username=Cipher-Soul&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+![enter image description here](https://i.pinimg.com/736x/89/2d/7d/892d7d07adcdc5869fdfcdf6f53deffb.jpg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cipher-Soul&icon=6&color=12)](https://visitcount.itsvg.in)
