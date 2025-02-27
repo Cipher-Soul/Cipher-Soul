@@ -5,7 +5,7 @@
 
 ## 🚧 What I’m Up To
 
-   -  learning django rest api framework 
+   - Learning Django rest api framework 
    - Always up for learning and sharing new ideas!
 
 ## Social!
