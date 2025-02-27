@@ -1,15 +1,14 @@
 ![enter image description here](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)
 <img align="right" src='https://visitcount.itsvg.in/api?id=Cipher-Soul&icon=0&color=12'/>
 # 👋 Hey, I’m Ankit Kashyap !
-   - 🎮 When I’m not coding, I’m probably playing Minecraft ⛏️ , watching youtube videos or just thinking about myself.
+   -  When I’m not coding, I’m probably playing Minecraft , watching youtube videos or just thinking about myself.
 
 ## 🚧 What I’m Up To
 
-   - 🔥 Working on React js Projects
-   - 🤝 Collaborating with others on open-source projects
-   - 🎯 Always up for learning and sharing new ideas!
+   -  learning django rest api framework 
+   - Always up for learning and sharing new ideas!
 
-## 📫 Let’s Connect!
+## Social!
 
    - 💼 Let’s chat on <a href="https://www.instagram.com/soul_redesign" target='_blank'><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    - 🌐 Check out my <a href="https://ankit-site.onrender.com/"><img src="https://img.shields.io/badge/Ankit%20site-click%20to%20visit%20%5E-black?labelColor=73EC8B&style=flat&link=https://ankit-site.onrender.com/" alt="Ankit site" /></a>
